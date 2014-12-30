@@ -31,8 +31,7 @@ Ideal for development cluster on a laptop with at least 4GB of memory.
 
 
 # 4. Modifying scripts for adapting to your environment
-You need to modify the scripts to adapt the VM setup to your environment.  
-
+You need to modify the scripts to adapt the VM setup to your environment. 
 0. [List of available Vagrant boxes](http://www.vagrantbox.es)
 
 1. ./Vagrantfile
